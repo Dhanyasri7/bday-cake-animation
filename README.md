@@ -38,13 +38,12 @@ birthday-cake-animation/
 
 ## 📦 How to Run Locally
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/birthday-cake-animation.git
    cd birthday-cake-animation
-open index.html
-# or just double-click the file in your folder
+
 🧁 Customization
 You can personalize the cake by:
 
